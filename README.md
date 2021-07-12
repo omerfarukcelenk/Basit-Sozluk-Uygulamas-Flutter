@@ -1,17 +1,11 @@
-# sozluk_uygulamasi
+# Basit Sozluk Uygulaması | Flutter
 
-A new Flutter project.
+![sozluk uyg 1](https://user-images.githubusercontent.com/71720425/125331915-4be3ab80-e351-11eb-9b3e-075264f5bdd9.png)
 
-## Getting Started
+<hr>
 
-This project is a starting point for a Flutter application.
+![sozluk uyg 2](https://user-images.githubusercontent.com/71720425/125331917-4d14d880-e351-11eb-86d8-039b42eaca9c.png)
 
-A few resources to get you started if this is your first Flutter project:
+<hr>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Basit-Sozluk-Uygulamas-Flutter
+![sozluk uyg 3](https://user-images.githubusercontent.com/71720425/125331923-4dad6f00-e351-11eb-9e0c-4323b739e90f.png)
